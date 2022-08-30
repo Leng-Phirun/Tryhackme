@@ -324,7 +324,7 @@ Port 22:
 
 `Login as barney`
 
-Barney Flag:`THM{f05780f08f0eb1de65023069d0e4c90c}`
+Barney Flag:`THM{REDACTED}`
 
 There is another user on the machine `fred`
 
@@ -375,7 +375,7 @@ b3dr0ck>hint
 
 We can use this password to login as fred from previous shell. 
 
-Fred Flag:`THM{08da34e619da839b154521da7323559d}`
+Fred Flag:`THM{REDACTED}`
 
 `sudo -l`
 
@@ -411,4 +411,4 @@ hashcat with rockyou can't crack it so we can just use Crackstation website
 
 `flintstonesvitamins`
 
-Root Flag:`THM{de4043c009214b56279982bf10a661b7}`
+Root Flag:`THM{REDACTED}`
